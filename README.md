@@ -19,3 +19,4 @@ The primary objectives of this website are to:
 By addressing these objectives, our website seeks to revolutionize the way healthcare resources are distributed and utilized. Ultimately, this will improve patient outcomes and enhance the resilience of the healthcare system.
 
 [DFD (Data Flow Diagram)](https://www.figma.com/file/9GkgKc39UE0mBDNemBWaGN/Untitled?type=whiteboard&node-id=0-1&t=7f0SH2FuATtKD4Zk-0)
+![DFD](dfd.png)
